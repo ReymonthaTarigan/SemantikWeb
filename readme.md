@@ -39,15 +39,15 @@ Sebelum memulai, pastikan Anda telah menginstal:
 
 2. Ekstrak dan buka folder Fuseki:
 
-```bash
+```
 unzip apache-jena-fuseki-*.zip
 cd apache-jena-fuseki-*/
-
+```
 3. Jalankan Fuseki Server
 
-```bash
+```
 ./fuseki-server
-
+```
 
 Fuseki akan berjalan di http://localhost:3030
 
@@ -74,14 +74,14 @@ Fuseki akan berjalan di http://localhost:3030
 
 ### 3.  Install Dependencies Python
 
-```bash
+```
 pip install streamlit SPARQLWrapper
-
+```
 
 ### 4.  Jalankan Aplikasi
-```bash
+```
 streamlit run app.py
-
+```
 Akses di browser: http://localhost:8501
 
 
