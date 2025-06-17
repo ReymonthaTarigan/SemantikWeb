@@ -9,6 +9,7 @@ Aplikasi ini merupakan **penerjemah prasasti dan kamus Sunda Kuno ke Bahasa Indo
 ```
 SemantikWeb/
 │
+├── Image                    # Data gambar prasasti Batutulis yang akan ditampilkan
 ├── PrasastiBatuTulis.ttl    # File RDF untuk data kalimat prasasti
 ├── KamusSundaKuno.ttl       # File RDF untuk data kamus
 ├── app.py                   # Aplikasi Streamlit 
