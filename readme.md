@@ -14,6 +14,7 @@ SemantikWeb/
 ├── app.py                   # Aplikasi Streamlit 
 ├── Data.xlsx                # Berisi data prasasti Batutulis
 ├── Kamus.xlsx               # Berisi data kamus sunda kuno
+├── requirement.xlsx         # Berisi data persiapan yang perlu sebelum menjalankan aplikasi
 └── README.md                # Dokumentasi ini
 ```
 
