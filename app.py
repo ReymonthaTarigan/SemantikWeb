@@ -1,7 +1,7 @@
 import streamlit as st
 from SPARQLWrapper import SPARQLWrapper, JSON
 
-# ===== Fungsi Query Kalimat (Prasasti Batu Tulis) =====
+
 def search_kalimat(kata):
     sparql = SPARQLWrapper("http://localhost:3030/PrasastiBatuTulis/sparql")
     query = f"""
@@ -25,7 +25,7 @@ def search_kalimat(kata):
     results = sparql.query().convert()
     return results["results"]["bindings"]
 
-# ===== Fungsi Query Kamus =====
+
 def search_kamus(kata):
     sparql = SPARQLWrapper("http://localhost:3030/KamusSundaKuno/sparql")
     query = f"""
@@ -47,7 +47,7 @@ def search_kamus(kata):
     results = sparql.query().convert()
     return results["results"]["bindings"]
 
-# ===== Tampilan Streamlit (dengan desain lebih baik) =====
+
 st.set_page_config(page_title="Penerjemah Sunda Kuno", layout="centered")
 st.markdown("<h1 style='text-align: center; ;'>Aplikasi Semantik Web Sunda Kuno</h1>", unsafe_allow_html=True)
 st.markdown("<p style='text-align: center; color: gray;'>Terjemahan Prasasti dan Kamus Sunda Kuno ↔ Indonesia</p>", unsafe_allow_html=True)

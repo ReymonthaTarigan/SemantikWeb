@@ -1,9 +1,9 @@
 import pandas as pd
 
-# Baca file Excel
+l
 df = pd.read_excel("Data.xlsx")
 
-# Tulis RDF ke file .ttl
+
 with open("sunda_output.ttl", "w", encoding="utf-8") as f:
     f.write("@prefix sk: <http://example.org/sundakuno#> .\n\n")
     for idx, row in df.iterrows():
