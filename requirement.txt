@@ -1,0 +1,18 @@
+# ===============================
+# ✅ KEBUTUHAN SISTEM UNTUK PROYEK
+# Aplikasi Semantik Web Sunda Kuno
+# ===============================
+
+Python 3.8 atau lebih baru
+pip (Python package manager)
+Java JDK (dibutuhkan oleh Apache Jena)
+Apache Jena Fuseki - https://jena.apache.org/download/index.cgi
+Browser modern (Chrome, Firefox, dll)
+Editor teks (opsional, contoh: VS Code)
+
+# ===============================
+# 📦 DEPENDENSI PYTHON (tambahkan ke requirements.txt)
+# ===============================
+
+streamlit
+SPARQLWrapper
