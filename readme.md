@@ -92,7 +92,9 @@ streamlit run app.py
 Akses di browser: http://localhost:8501
 
 
-### Fitur Aplikasi
+---
+
+## Fitur Aplikasi
 
 Tampilan Awal Aplikasi
 
@@ -114,7 +116,9 @@ User dapat memasukkan kata atau kalimat  dalam kolom pencarian lalu tekan enter.
 ![image](https://github.com/user-attachments/assets/4ada5eae-b8ea-4843-9a10-96d9270720a1)
 
 
-### Sumber Data
+---
+
+## Sumber Data
 
 - **Prasasti Batutulis** : https://id.wikipedia.org/wiki/Prasasti_Batutulis
 - **Kamus Sunda Kuno** : https://jurnal.unpad.ac.id/sosiohumaniora/article/view/19436
