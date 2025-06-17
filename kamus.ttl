@@ -1,0 +1,532 @@
+@prefix sk: <http://example.org/sundakuno#> .
+
+sk:k1 a sk:Kamus ;
+    sk:sundaKuno """Abig""" ;
+    sk:indonesia """Dinding bambu berbentuk segitiga sebagai penutup lumbung atau rumah bapang; nama bagian rumah bilik tiga sudut dalam gudang padi atau gudang rumah; gudang tempat menyimpan padi""" .
+
+sk:k2 a sk:Kamus ;
+    sk:sundaKuno """Abir""" ;
+    sk:indonesia """sejenis pisau yang berukuran besar untuk memotong; pisau besar""" .
+
+sk:k3 a sk:Kamus ;
+    sk:sundaKuno """Ablag""" ;
+    sk:indonesia """besar""" .
+
+sk:k4 a sk:Kamus ;
+    sk:sundaKuno """Ngablag""" ;
+    sk:indonesia """selalu terbuka; luas""" .
+
+sk:k5 a sk:Kamus ;
+    sk:sundaKuno """Ublug-ablag""" ;
+    sk:indonesia """luas sekali, leluasa""" .
+
+sk:k6 a sk:Kamus ;
+    sk:sundaKuno """Adi""" ;
+    sk:indonesia """1 adik; 2 setuju; 3 utama, maha, sangat agung; 4 indah, bagus/tinggi""" .
+
+sk:k7 a sk:Kamus ;
+    sk:sundaKuno """Adidaya""" ;
+    sk:indonesia """1 alat, perkakas yang sangat canggih; 2 sangat berbelas kasihan""" .
+
+sk:k8 a sk:Kamus ;
+    sk:sundaKuno """Adigama""" ;
+    sk:indonesia """1 pengetahuan yang bagus dan sangat tinggi; 2 Nama tokoh dalam SSK""" .
+
+sk:k9 a sk:Kamus ;
+    sk:sundaKuno """Adiguna""" ;
+    sk:indonesia """1 sangat berjasa, sangat berguna; 2 berperilaku baik""" .
+
+sk:k10 a sk:Kamus ;
+    sk:sundaKuno """Adiing""" ;
+    sk:indonesia """adikku""" .
+
+sk:k11 a sk:Kamus ;
+    sk:sundaKuno """Adikara""" ;
+    sk:indonesia """kekuasaan tertinggi, penghargaan tertinggi""" .
+
+sk:k12 a sk:Kamus ;
+    sk:sundaKuno """Adilangka""" ;
+    sk:indonesia """sebutan/ pujian untuk raja yang dikagumi""" .
+
+sk:k13 a sk:Kamus ;
+    sk:sundaKuno """Adiluhung""" ;
+    sk:indonesia """yang terbaik, lebih baik, yang paling utama""" .
+
+sk:k14 a sk:Kamus ;
+    sk:sundaKuno """Adimukti""" ;
+    sk:indonesia """berkeyakinan penuh, sangat yakin benar""" .
+
+sk:k15 a sk:Kamus ;
+    sk:sundaKuno """Adining""" ;
+    sk:indonesia """adiknya""" .
+
+sk:k16 a sk:Kamus ;
+    sk:sundaKuno """Adiparwa""" ;
+    sk:indonesia """salah satu nama cerita wayang dalam SSK""" .
+
+sk:k17 a sk:Kamus ;
+    sk:sundaKuno """Adipati""" ;
+    sk:indonesia """raja tertinggi, maharaja""" .
+
+sk:k18 a sk:Kamus ;
+    sk:sundaKuno """Adipurusa""" ;
+    sk:indonesia """orang terhormat, orang yang besar; jiwa yang besar""" .
+
+sk:k19 a sk:Kamus ;
+    sk:sundaKuno """Adiwira""" ;
+    sk:indonesia """pahlawan yang disegani, pahlawan besar""" .
+
+sk:k20 a sk:Kamus ;
+    sk:sundaKuno """Adiyaksa""" ;
+    sk:indonesia """saksi, pengawas""" .
+
+sk:k21 a sk:Kamus ;
+    sk:sundaKuno """Kamiadi""" ;
+    sk:indonesia """adik yang paling kecil, adik paling bungsu""" .
+
+sk:k22 a sk:Kamus ;
+    sk:sundaKuno """Kapiadi""" ;
+    sk:indonesia """dapat dianggap adik""" .
+
+sk:k23 a sk:Kamus ;
+    sk:sundaKuno """Miadi""" ;
+    sk:indonesia """menganggap adik""" .
+
+sk:k24 a sk:Kamus ;
+    sk:sundaKuno """Saadi""" ;
+    sk:indonesia """seadik, hampir sama besarnya""" .
+
+sk:k25 a sk:Kamus ;
+    sk:sundaKuno """Sapta Adiyaksa""" ;
+    sk:indonesia """lihat SAPTA""" .
+
+sk:k26 a sk:Kamus ;
+    sk:sundaKuno """Adigung""" ;
+    sk:indonesia """sombong; tinggi hati; merasa diri lebih dari orang lain""" .
+
+sk:k27 a sk:Kamus ;
+    sk:sundaKuno """Adi beuteung""" ;
+    sk:indonesia """adik ipar""" .
+
+sk:k28 a sk:Kamus ;
+    sk:sundaKuno """Aditya""" ;
+    sk:indonesia """matahari""" .
+
+sk:k29 a sk:Kamus ;
+    sk:sundaKuno """Aseuk""" ;
+    sk:indonesia """1. tampil; 2 perkakas untuk bertani atau menanam padi/palawija yang terbuat dari kayu bentuknya bulat panjang, ujungnya lancip""" .
+
+sk:k30 a sk:Kamus ;
+    sk:sundaKuno """Diaseukan""" ;
+    sk:indonesia """ditampilkan""" .
+
+sk:k31 a sk:Kamus ;
+    sk:sundaKuno """Aseupan""" ;
+    sk:indonesia """kukusan nasi; dibuat dari bambu; digunakan untuk menanak nasi, dsb.""" .
+
+sk:k32 a sk:Kamus ;
+    sk:sundaKuno """Babancong""" ;
+    sk:indonesia """bangunan kecil yang agak tinggi, berada di pinggir alun-alun, tempat para pemimpin """ .
+
+sk:k33 a sk:Kamus ;
+    sk:sundaKuno """Babantar""" ;
+    sk:indonesia """bagian sungai yang datar serta dangkal""" .
+
+sk:k34 a sk:Kamus ;
+    sk:sundaKuno """Badawang""" ;
+    sk:indonesia """1. kura-kura; 2 orang-orangan dengan ukuran besar tapi tidak tentu ukurannya""" .
+
+sk:k35 a sk:Kamus ;
+    sk:sundaKuno """Badawang sarat""" ;
+    sk:indonesia """satu ragam hias yang terdapat pada rumah dengan hiasan ikan besar""" .
+
+sk:k36 a sk:Kamus ;
+    sk:sundaKuno """Bumi""" ;
+    sk:indonesia """1 bumi, dunia; 2 rumah, bangunan""" .
+
+sk:k37 a sk:Kamus ;
+    sk:sundaKuno """Bumi asri""" ;
+    sk:indonesia """bangunan cantik""" .
+
+sk:k38 a sk:Kamus ;
+    sk:sundaKuno """Bumi bubut""" ;
+    sk:indonesia """bentuk bangunan dengan ragam hias dibulatkan atau dibuat membulat""" .
+
+sk:k39 a sk:Kamus ;
+    sk:sundaKuno """Bumi kancana""" ;
+    sk:indonesia """dunia keemasan""" .
+
+sk:k40 a sk:Kamus ;
+    sk:sundaKuno """Bumi manik""" ;
+    sk:indonesia """rumah/bangunan yang dihiasi dengan permata atau intan permata
+""" .
+
+sk:k41 a sk:Kamus ;
+    sk:sundaKuno """Bumi niskala""" ;
+    sk:indonesia """mayapada, dunia gaib, dunia tanpa wujud kasar""" .
+
+sk:k42 a sk:Kamus ;
+    sk:sundaKuno """Bumi ringgit""" ;
+    sk:indonesia """bentuk bangunan atau rumah dengan berbagai ragam hias atau ukiran""" .
+
+sk:k43 a sk:Kamus ;
+    sk:sundaKuno """Bumi sakala""" ;
+    sk:indonesia """dunia yang fana, muka bum""" .
+
+sk:k44 a sk:Kamus ;
+    sk:sundaKuno """Bumi tetep""" ;
+    sk:indonesia """bentuk bangunan rumah dengan macam-macam ragam hias""" .
+
+sk:k45 a sk:Kamus ;
+    sk:sundaKuno """Bumi lamba""" ;
+    sk:indonesia """dunia kehidupan""" .
+
+sk:k46 a sk:Kamus ;
+    sk:sundaKuno """Bumi tan parek""" ;
+    sk:indonesia """jagat raya, dunia yang luas""" .
+
+sk:k47 a sk:Kamus ;
+    sk:sundaKuno """Bubumian""" ;
+    sk:indonesia """meniru-niru bangunan atau rumah, rumah-rumahan""" .
+
+sk:k48 a sk:Kamus ;
+    sk:sundaKuno """Bumi resik, """ ;
+    sk:indonesia """bumi indah, bangunan cantik""" .
+
+sk:k49 a sk:Kamus ;
+    sk:sundaKuno """Bumi Bakulapura""" ;
+    sk:indonesia """Pulau Kalimantan""" .
+
+sk:k50 a sk:Kamus ;
+    sk:sundaKuno """Calintuh""" ;
+    sk:indonesia """ruas bambu yang dilubangi agar berbunyi bila tertiup angin; sejenis kesenian Sunda dengan menggunakan ruas bambu sebagai alatnya""" .
+
+sk:k51 a sk:Kamus ;
+    sk:sundaKuno """Calon""" ;
+    sk:indonesia """bakal, yang akan menjadi""" .
+
+sk:k52 a sk:Kamus ;
+    sk:sundaKuno """Calung""" ;
+    sk:indonesia """nama kesenian tradisional terbuat dari bambu, jenis bambu hitam""" .
+
+sk:k53 a sk:Kamus ;
+    sk:sundaKuno """Calung Gintung""" ;
+    sk:indonesia """nama tokoh """ .
+
+sk:k54 a sk:Kamus ;
+    sk:sundaKuno """Calung dalang""" ;
+    sk:indonesia """calung yang dimainkan oleh dalang/ketua yang terdiri atas 12 buah ruas bambu""" .
+
+sk:k55 a sk:Kamus ;
+    sk:sundaKuno """Calung Panerus""" ;
+    sk:indonesia """terdiri dari lima buah ruas bambu (bersatu) yang berfungsi sebagai panerus""" .
+
+sk:k56 a sk:Kamus ;
+    sk:sundaKuno """Calung Bonang""" ;
+    sk:indonesia """terdiri atas dua bagian, yang satu dua buah ruas bambu yang satu lagi tiga buah, berfungsi sebagai tabuhan bonang pada gamelan""" .
+
+sk:k57 a sk:Kamus ;
+    sk:sundaKuno """Calung Goong""" ;
+    sk:indonesia """terdiri dari dua buah ruas bambu yang berfungsi sebagai kempul dan goong""" .
+
+sk:k58 a sk:Kamus ;
+    sk:sundaKuno """Caluntang""" ;
+    sk:indonesia """tidak sopan, tidak punya sopan santun""" .
+
+sk:k59 a sk:Kamus ;
+    sk:sundaKuno """Camah""" ;
+    sk:indonesia """kotor, jijik (lebih jijik)""" .
+
+sk:k60 a sk:Kamus ;
+    sk:sundaKuno """Dangheuak""" ;
+    sk:indonesia """istilah dalam tembang Sunda; yakni merupakan nada jebakan""" .
+
+sk:k61 a sk:Kamus ;
+    sk:sundaKuno """Dangkura""" ;
+    sk:indonesia """hamparan atau padang rumput, rumput""" .
+
+sk:k62 a sk:Kamus ;
+    sk:sundaKuno """Ébon""" ;
+    sk:indonesia """biarawati, pertapa""" .
+
+sk:k63 a sk:Kamus ;
+    sk:sundaKuno """Kaébonanana""" ;
+    sk:indonesia """kebiarawatiannya""" .
+
+sk:k64 a sk:Kamus ;
+    sk:sundaKuno """ébon-ébon""" ;
+    sk:indonesia """pertapa perempuan""" .
+
+sk:k65 a sk:Kamus ;
+    sk:sundaKuno """Elos""" ;
+    sk:indonesia """bangunan yang biasanya tanpa bilik, untuk menyimpan bahan bangunan; los""" .
+
+sk:k66 a sk:Kamus ;
+    sk:sundaKuno """Gambang""" ;
+    sk:indonesia """sejenis alat musik degung atau kliningan""" .
+
+sk:k67 a sk:Kamus ;
+    sk:sundaKuno """Gambangan""" ;
+    sk:indonesia """penyajian karawitan gending yang menitikberatkan pada permainan waditra gambang yang dibantu dengan waditra ketuk dan goong
+""" .
+
+sk:k68 a sk:Kamus ;
+    sk:sundaKuno """Gamuleng""" ;
+    sk:indonesia """bentuk wajahnya bulat dan berisi, berbadan seksi dan biasanya wanita yang berkulit kuning langsat""" .
+
+sk:k69 a sk:Kamus ;
+    sk:sundaKuno """Haat""" ;
+    sk:indonesia """sayang, iba, menaruh kasih, baik hati, senang melakukan pekerjaan bukan karena ingin dipuji
+""" .
+
+sk:k70 a sk:Kamus ;
+    sk:sundaKuno """Panghaat""" ;
+    sk:indonesia """yang menolong, yang mengasihi, yang menyayang""" .
+
+sk:k71 a sk:Kamus ;
+    sk:sundaKuno """Imeut""" ;
+    sk:indonesia """teliti""" .
+
+sk:k72 a sk:Kamus ;
+    sk:sundaKuno """Inggis""" ;
+    sk:indonesia """takut, ketakutan, kekhawatiran, khawatir""" .
+
+sk:k73 a sk:Kamus ;
+    sk:sundaKuno """Jamparing""" ;
+    sk:indonesia """panah, yang sering dilepas menggunakan busur""" .
+
+sk:k74 a sk:Kamus ;
+    sk:sundaKuno """Jatmika""" ;
+    sk:indonesia """sopan; baik hati, menarik hati""" .
+
+sk:k75 a sk:Kamus ;
+    sk:sundaKuno """Kajatmikan""" ;
+    sk:indonesia """kesopanan""" .
+
+sk:k76 a sk:Kamus ;
+    sk:sundaKuno """Kawih""" ;
+    sk:indonesia """lagu, nyanyian, pandai, mampu""" .
+
+sk:k77 a sk:Kamus ;
+    sk:sundaKuno """Kawihamu""" ;
+    sk:indonesia """hendaknya kamu pandai/mampu""" .
+
+sk:k78 a sk:Kamus ;
+    sk:sundaKuno """Kumawih""" ;
+    sk:indonesia """menganggap dirinya pandai""" .
+
+sk:k79 a sk:Kamus ;
+    sk:sundaKuno """Kinawih""" ;
+    sk:indonesia """ahli, pandai
+""" .
+
+sk:k80 a sk:Kamus ;
+    sk:sundaKuno """Ngawih""" ;
+    sk:indonesia """bernyanyi, berdendang""" .
+
+sk:k81 a sk:Kamus ;
+    sk:sundaKuno """Kawih Bongbongkaso""" ;
+    sk:indonesia """nama kakawihan dalam SSK""" .
+
+sk:k82 a sk:Kamus ;
+    sk:sundaKuno """Kawih babahanan""" ;
+    sk:indonesia """nama lagu dalam SSK; pelamaran""" .
+
+sk:k83 a sk:Kamus ;
+    sk:sundaKuno """Kawih bwatuha""" ;
+    sk:indonesia """nama lagu dalam SSK""" .
+
+sk:k84 a sk:Kamus ;
+    sk:sundaKuno """Kawih lalanguan""" ;
+    sk:indonesia """nama lagu dalam SSK; erat kaitannya dengan cinta; percintaan""" .
+
+sk:k85 a sk:Kamus ;
+    sk:sundaKuno """Kawih panjang,""" ;
+    sk:indonesia """nama lagu dalam SSK, syairnya panjang""" .
+
+sk:k86 a sk:Kamus ;
+    sk:sundaKuno """Kawih Panyaraman""" ;
+    sk:indonesia """nama lagu dalam SSK, untuk menasihati atau melarang""" .
+
+sk:k87 a sk:Kamus ;
+    sk:sundaKuno """Kawih pengpeledan,""" ;
+    sk:indonesia """nama lagu dalam SSK""" .
+
+sk:k88 a sk:Kamus ;
+    sk:sundaKuno """Kawih sasambatan,""" ;
+    sk:indonesia """nama lagu dalam SSK; meminta tolong""" .
+
+sk:k89 a sk:Kamus ;
+    sk:sundaKuno """Kawih sisindiran""" ;
+    sk:indonesia """nama lagu dalam SSK, berupa sisindiran; pantun""" .
+
+sk:k90 a sk:Kamus ;
+    sk:sundaKuno """Kawih tangtung""" ;
+    sk:indonesia """nama lagu dalam SSK; dibawakan sambil berdiri""" .
+
+sk:k91 a sk:Kamus ;
+    sk:sundaKuno """Kawih igel-igela""" ;
+    sk:indonesia """nama lagu dalam SSK; dibawakan sambil menari""" .
+
+sk:k92 a sk:Kamus ;
+    sk:sundaKuno """Kawih porod eurih,""" ;
+    sk:indonesia """nama lagu dalam SSK; ada hubungannya dengan gelagah
+""" .
+
+sk:k93 a sk:Kamus ;
+    sk:sundaKuno """Labda""" ;
+    sk:indonesia """Rajin""" .
+
+sk:k94 a sk:Kamus ;
+    sk:sundaKuno """Labda karya""" ;
+    sk:indonesia """rajin bekerja""" .
+
+sk:k95 a sk:Kamus ;
+    sk:sundaKuno """Lita""" ;
+    sk:indonesia """rata, datar""" .
+
+sk:k96 a sk:Kamus ;
+    sk:sundaKuno """Manis""" ;
+    sk:indonesia """manis, ramah""" .
+
+sk:k97 a sk:Kamus ;
+    sk:sundaKuno """Umanis""" ;
+    sk:indonesia """nama hari, permata dari pekan""" .
+
+sk:k98 a sk:Kamus ;
+    sk:sundaKuno """Mamanis""" ;
+    sk:indonesia """1. isi; 2 reureueus; pemanis; bumbu dalam suatu lagu cianjuran; termasuk di dalamnya yang disebut: eureur, kenyed atau kedet, gebeg atau gedag, geregel, dangheuak, sorodot, dan sebagainya.""" .
+
+sk:k99 a sk:Kamus ;
+    sk:sundaKuno """Niskala""" ;
+    sk:indonesia """alam gaib, tidak terlihat; langgeng, tidak terpisahkan; akhirat; kekal
+""" .
+
+sk:k100 a sk:Kamus ;
+    sk:sundaKuno """Saniskala""" ;
+    sk:indonesia """kelanggengan; langgeng; kekal""" .
+
+sk:k101 a sk:Kamus ;
+    sk:sundaKuno """Obong""" ;
+    sk:indonesia """bakar""" .
+
+sk:k102 a sk:Kamus ;
+    sk:sundaKuno """Diobong""" ;
+    sk:indonesia """dibakar""" .
+
+sk:k103 a sk:Kamus ;
+    sk:sundaKuno """Palastra""" ;
+    sk:indonesia """1. siap; 2. mati, meninggal""" .
+
+sk:k104 a sk:Kamus ;
+    sk:sundaKuno """Palguna""" ;
+    sk:indonesia """bulan kedelapan dalam perhitungan tahun Saka""" .
+
+sk:k105 a sk:Kamus ;
+    sk:sundaKuno """Rajah""" ;
+    sk:indonesia """1 nafsu, kegelapan, takut; 2 raja-raja, garis pada jimat; 3 kidung pembuka; mantera""" .
+
+sk:k106 a sk:Kamus ;
+    sk:sundaKuno """Rajah Pamuka""" ;
+    sk:indonesia """mantera pembukaan""" .
+
+sk:k107 a sk:Kamus ;
+    sk:sundaKuno """Rajah Pamunah,""" ;
+    sk:indonesia """mantera untuk pemusnah, penutup""" .
+
+sk:k108 a sk:Kamus ;
+    sk:sundaKuno """Rawayan""" ;
+    sk:indonesia """jembatan yang tidak memakai tiang sebagai pendukungnya (seperti jembatan gantung)""" .
+
+sk:k109 a sk:Kamus ;
+    sk:sundaKuno """Sampulur""" ;
+    sk:indonesia """semampai; berbadan tinggi ramping biasanya untuk wanita""" .
+
+sk:k110 a sk:Kamus ;
+    sk:sundaKuno """Tarawangsa""" ;
+    sk:indonesia """alat musik gesek tradisional; sama seperti rebab, tarawangsa pun mempunyai dua buah kawat yang dipasang secara vertikal, serta dibunyikan dengan cara digesek. Perbedaannya terletak pada bentuk dan warna suaranya. Tarawangsa berwangkiskan kayu, rebab berwangkiskan kulit.""" .
+
+sk:k111 a sk:Kamus ;
+    sk:sundaKuno """Narawangsa""" ;
+    sk:indonesia """seperti bunyi tarawangsa""" .
+
+sk:k112 a sk:Kamus ;
+    sk:sundaKuno """Ubang""" ;
+    sk:indonesia """putar""" .
+
+sk:k113 a sk:Kamus ;
+    sk:sundaKuno """Ubang-ubangan""" ;
+    sk:indonesia """sejenis permainan rakyat, para pemainnya bergerak berputar-putar sampai permainannya selesai dan ada yang menang""" .
+
+sk:k114 a sk:Kamus ;
+    sk:sundaKuno """Umpi""" ;
+    sk:indonesia """umpi, cicit (generasi ketiga sesudah ego)""" .
+
+sk:k115 a sk:Kamus ;
+    sk:sundaKuno """Wastu""" ;
+    sk:indonesia """hal, keadaan, perkara, restu, berkat""" .
+
+sk:k116 a sk:Kamus ;
+    sk:sundaKuno """Diwastu""" ;
+    sk:indonesia """dinobatkan; direstui""" .
+
+sk:k117 a sk:Kamus ;
+    sk:sundaKuno """Pangwastu""" ;
+    sk:indonesia """menyebut""" .
+
+sk:k118 a sk:Kamus ;
+    sk:sundaKuno """Wastu siwong""" ;
+    sk:indonesia """menobatkan orang; memberkahi""" .
+
+sk:k119 a sk:Kamus ;
+    sk:sundaKuno """Winastwan""" ;
+    sk:indonesia """diberkati""" .
+
+sk:k120 a sk:Kamus ;
+    sk:sundaKuno """Wastuwidya""" ;
+    sk:indonesia """ilmu membangun, ilmu bangunan; arsitektur""" .
+
+sk:k121 a sk:Kamus ;
+    sk:sundaKuno """Wuwung""" ;
+    sk:indonesia """bagian atap; penutup atap sepanjang sambungan atap tempat bertemunya genting di puncak atap, terbuat dari seng, ijuk, atau tembok""" .
+
+sk:k122 a sk:Kamus ;
+    sk:sundaKuno """Wuwus""" ;
+    sk:indonesia """1 sudah; 2 kata, ucapan; 3 sebut""" .
+
+sk:k123 a sk:Kamus ;
+    sk:sundaKuno """Kawuwus""" ;
+    sk:indonesia """tersebutlah""" .
+
+sk:k124 a sk:Kamus ;
+    sk:sundaKuno """Kawuwusan""" ;
+    sk:indonesia """yang dikatakan, yang dikemukakan""" .
+
+sk:k125 a sk:Kamus ;
+    sk:sundaKuno """Yatmaka""" ;
+    sk:indonesia """hati""" .
+
+sk:k126 a sk:Kamus ;
+    sk:sundaKuno """Yatna""" ;
+    sk:indonesia """hati-hati, waspada, rajin, teliti, ikut""" .
+
+sk:k127 a sk:Kamus ;
+    sk:sundaKuno """Iyatnayatna""" ;
+    sk:indonesia """berhati-hatilah""" .
+
+sk:k128 a sk:Kamus ;
+    sk:sundaKuno """Kayatnakna""" ;
+    sk:indonesia """harus diperhatikan""" .
+
+sk:k129 a sk:Kamus ;
+    sk:sundaKuno """Yatnakeun""" ;
+    sk:indonesia """yakinkanlah""" .
+
+sk:k130 a sk:Kamus ;
+    sk:sundaKuno """Kayatnakeun""" ;
+    sk:indonesia """perhatikanlah, yakinkanlah""" .
+
+sk:k131 a sk:Kamus ;
+    sk:sundaKuno """Yatna-yatna""" ;
+    sk:indonesia """hati-hati""" .
+

@@ -1,0 +1,56 @@
+@prefix sk: <http://example.org/sundakuno#> .
+
+sk:data1 a sk:Kalimat ;
+    sk:nomor "1" ;
+    sk:gambar "https://raw.githubusercontent.com/ReymonthaTarigan/SemantikWeb/86282a2a741c410578e430d7d784a9068d2a0390/Image/1.png" ;
+    sk:kalimatSundaKuno """Ø Ø vaṁ(ṅ) a‹m›(p)un· I(n)i sakakala, pr(ə)bu ratu pura:na pun·, ḍivas·tu""" ;
+    sk:kalimatIndonesia """ Aum, ampuni (segala kesalahan). Inilah tanda (tugu) untuk mengenang Sang Prabu Raja yang lalu, yang (dirinya) dinobatkan""" .
+
+sk:data2 a sk:Kalimat ;
+    sk:nomor "2" ;
+    sk:gambar "https://raw.githubusercontent.com/ReymonthaTarigan/SemantikWeb/86282a2a741c410578e430d7d784a9068d2a0390/Image/2.png" ;
+    sk:kalimatSundaKuno """ḍyi, viṅaran· prəbu guru ḍe(va)ta p(ra)n· ḍivas·tu ḍyə ḍiṅaran· sri""" ;
+    sk:kalimatIndonesia """di sini yang dikenali dengan Prabu Guru Dewata (dan juga) dinobatkan di sini yang dikenali dengan Sri""" .
+
+sk:data3 a sk:Kalimat ;
+    sk:nomor "3" ;
+    sk:gambar "https://raw.githubusercontent.com/ReymonthaTarigan/SemantikWeb/86282a2a741c410578e430d7d784a9068d2a0390/Image/3.png" ;
+    sk:kalimatSundaKuno """ baduga maharaja, ratu ha(j)i ḍi pakvan· pajajaran· sri sa‹ṁ› ratu ḍe-""" ;
+    sk:kalimatIndonesia """ Baduga Maharaja, Ratu Haji di Pakwan Pajajaran, Sri Sang Ratu De-""" .
+
+sk:data4 a sk:Kalimat ;
+    sk:nomor "4" ;
+    sk:gambar "https://raw.githubusercontent.com/ReymonthaTarigan/SemantikWeb/86282a2a741c410578e430d7d784a9068d2a0390/Image/4.png" ;
+    sk:kalimatSundaKuno """vata pun· ya nu ñusuk· na pakvan· ḍyə Anak· rahyi‹ṁ› ḍeva nis·-""" ;
+    sk:kalimatIndonesia """wata. Dirinyalah yang memberi batas Pakwan di sini (sebagai) anak dari Rahyang Dewa Nis-""" .
+
+sk:data5 a sk:Kalimat ;
+    sk:nomor "5" ;
+    sk:gambar "https://raw.githubusercontent.com/ReymonthaTarigan/SemantikWeb/86282a2a741c410578e430d7d784a9068d2a0390/Image/5.png" ;
+    sk:kalimatSundaKuno """kala, sa‹ṁ› siḍa mok(·)ta ḍi gunuṁ tiga, qə‹ñ›cu rahyiṁ (n)is·kala vas·tu""" ;
+    sk:kalimatIndonesia """kala, yang telah lenyap (moksa?) di Gunung Tiga; cucu dari Rahyang Niskala Wastu""" .
+
+sk:data6 a sk:Kalimat ;
+    sk:nomor "6" ;
+    sk:gambar "https://raw.githubusercontent.com/ReymonthaTarigan/SemantikWeb/86282a2a741c410578e430d7d784a9068d2a0390/Image/6.png" ;
+    sk:kalimatSundaKuno """ka‹ñ›ca:na, saṁ siḍa mok·ta ka nusa laraṁ, ya syi nu (ñ)yin· sakaka-""" ;
+    sk:kalimatIndonesia """Kancana, yang telah lenyap (moksa?) ke Nusa Larang. Dia, yang satu itulah, yang membuat tugu peringatan""" .
+
+sk:data7 a sk:Kalimat ;
+    sk:nomor "7" ;
+    sk:gambar "https://raw.githubusercontent.com/ReymonthaTarigan/SemantikWeb/86282a2a741c410578e430d7d784a9068d2a0390/Image/7.png" ;
+    sk:kalimatSundaKuno """la, gugun(uṅ)an·, (ṅa)balay·,, ñyin· samiḍa, ñyin· saṁ hyi‹ṁ› talaga [va-]""" ;
+    sk:kalimatIndonesia """gunungan (yang dibuat), membuat dengan bebatuan (balay), membuat tempat upacara (samiḍa), membuat Telaga""" .
+
+sk:data8 a sk:Kalimat ;
+    sk:nomor "8" ;
+    sk:gambar "https://raw.githubusercontent.com/ReymonthaTarigan/SemantikWeb/86282a2a741c410578e430d7d784a9068d2a0390/Image/8.png" ;
+    sk:kalimatSundaKuno """R̥na mahavijaya, ya syi pun·,, ØØ I saka, pañca pan·ḍa-""" ;
+    sk:kalimatIndonesia """Warna yang maha suci. Sungguhlah jaya dia! Pada tahun ini: lima Pandawa""" .
+
+sk:data9 a sk:Kalimat ;
+    sk:nomor "9" ;
+    sk:gambar "https://raw.githubusercontent.com/ReymonthaTarigan/SemantikWeb/86282a2a741c410578e430d7d784a9068d2a0390/Image/9.png" ;
+    sk:kalimatSundaKuno """va ṅ(ə)‹m›ban· bumi Ø Ø""" ;
+    sk:kalimatIndonesia """menjaga bumi""" .
+
