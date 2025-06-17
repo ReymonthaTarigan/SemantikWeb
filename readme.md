@@ -1,3 +1,8 @@
+
+<!-- Agar lebih jelas, dapat diakses pada https://github.com/ReymonthaTarigan/SemantikWeb.git -->
+
+
+
 #  Aplikasi Semantik Web Sunda Kuno ↔ Indonesia
 
 Aplikasi ini merupakan **penerjemah prasasti dan kamus Sunda Kuno ke Bahasa Indonesia dan sebaliknya**, yang dibangun menggunakan **Apache Jena** sebagai basis data RDF (triple store) dan **Streamlit** sebagai antarmuka pengguna.
@@ -13,7 +18,7 @@ SemantikWeb/
 ├── PrasastiBatuTulis.ttl    # File RDF untuk data kalimat prasasti
 ├── KamusSundaKuno.ttl       # File RDF untuk data kamus
 ├── app.py                   # Aplikasi Streamlit 
-├── Data.xlsx                # Berisi data prasasti Batutulis
+├── PrasastiBatuTulis.xlsx   # Berisi data prasasti Batutulis
 ├── Kamus.xlsx               # Berisi data kamus sunda kuno
 ├── requirement.xlsx         # Berisi data persiapan yang perlu sebelum menjalankan aplikasi
 └── README.md                # Dokumentasi ini
@@ -105,7 +110,7 @@ Tampilan Awal Aplikasi
 
 ### 1.Terjemahan Prasasti Batutulis
 
-User dapat memasukkan kata atau kalimat dalam bahasa Indonesia atau bahasa Sunda Kuno dalam kolom pencarian lalu tekan enter. Untuk melihat daftar databasenya, dapat dilihat di Data.xlsx. Setelah memberikan masukan, akan ditampilkan baris prasasti ke berapa, gambar asli di prasastinya, teks sunda kunonya, dan terjemahan bahasa Indonesianya. Contohnya disini saya memasukkan kata "Raja". Hasilnya sebagai berikut.
+User dapat memasukkan kata atau kalimat dalam bahasa Indonesia atau bahasa Sunda Kuno dalam kolom pencarian lalu tekan enter. Untuk melihat daftar databasenya, dapat dilihat di PrasastiBatuTulis.xlsx. Setelah memberikan masukan, akan ditampilkan baris prasasti ke berapa, gambar asli di prasastinya, teks sunda kunonya, dan terjemahan bahasa Indonesianya. Contohnya disini saya memasukkan kata "Raja". Hasilnya sebagai berikut.
 
 ![image](https://github.com/user-attachments/assets/925cee2a-f70a-46c9-b90a-85b8abbc7cc3)
 ![image](https://github.com/user-attachments/assets/00a11854-bf16-4185-826a-ab08e66dcc43)
