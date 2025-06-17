@@ -56,7 +56,7 @@ fitur = st.selectbox("🔍 Pilih fitur:", ["Terjemahan Prasasti Batutulis", "Kam
 search_term = st.text_input("Masukkan kata (Sunda Kuno atau Indonesia):")
 
 if search_term:
-    if fitur == "Terjemahan Prasasti":
+    if fitur == "Terjemahan Prasasti Batutulis":
         hasil = search_kalimat(search_term)
         if hasil:
             for row in hasil:
