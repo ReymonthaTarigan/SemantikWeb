@@ -5,14 +5,16 @@ Aplikasi ini merupakan **penerjemah prasasti dan kamus Sunda Kuno ke Bahasa Indo
 ---
 
 ## 📂 Struktur Proyek
-semweb-sundakuno/
+```
+SemantikWeb/
 │
-├── PrasastiBatuTulis.ttl # File RDF untuk data kalimat prasasti
-├── KamusSundaKuno.ttl # File RDF untuk data kamus
-├── app.py # Aplikasi Streamlit 
-├── Data.xlsx #Berisi data prasasti Batutulis
-├── Kamus.xlsx #Berisi data kamus sunda kuno
-└── README.md # Dokumentasi ini
+├── PrasastiBatuTulis.ttl    # File RDF untuk data kalimat prasasti
+├── KamusSundaKuno.ttl       # File RDF untuk data kamus
+├── app.py                   # Aplikasi Streamlit 
+├── Data.xlsx                # Berisi data prasasti Batutulis
+├── Kamus.xlsx               # Berisi data kamus sunda kuno
+└── README.md                # Dokumentasi ini
+```
 
 
 ---
