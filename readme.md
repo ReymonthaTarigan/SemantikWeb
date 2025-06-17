@@ -2,14 +2,7 @@
 
 Aplikasi ini merupakan **penerjemah prasasti dan kamus Sunda Kuno ke Bahasa Indonesia dan sebaliknya**, yang dibangun menggunakan **Apache Jena** sebagai basis data RDF (triple store) dan **Streamlit** sebagai antarmuka pengguna.
 
-
-
-
-
-
-
-
-
+<br><br><br><br><br>
 ---
 
 ## 📂 Struktur Proyek
